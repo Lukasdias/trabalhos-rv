@@ -4,6 +4,9 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ATV_1.unity
+    guid: 20254c6e03e739b449c0d7bc03f44743
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 06950146a1ef0b24191085332dec957e, type: 2}
